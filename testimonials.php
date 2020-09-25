@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Q&A
+ * Plugin Name: Testimonials
  * Plugin URI: http://www.netlink.ie/
- * Description: Questions & Answers / FAQs plugin.
+ * Description: Testimonials plugin.
  * Author: NETLINK IT SERVICES
  * Version: 1.1
  * Author URI: http://www.netlink.ie/
